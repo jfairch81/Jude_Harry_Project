@@ -21,3 +21,26 @@ Weekly Timeline | Projected Goal
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
+
+
+### Details ###
+This project has given us the opportunity to continue, enhance, and complete our original design. We plan on modifying our original design to allow an accelerometer to measure the speed of the potato. Fortunatly most of our parts are sitting somewhere in the Simga Lab so that definitely helps.
+Our orginal plan called for:
+- 4” PVC pipe – 1.5 feet
+- 2” PVC pipe – 4 feet
+- 4” PVC threaded coupler
+- 4” PVC cleanout cap
+- 4” to 2” PVC adapter
+- PVC primer
+- PVC cement
+- Saw
+- Drill with 1/2” drill bit
+- Potatoes
+- Tape measure 
+- Stick lighter
+- Hairspray (not pictured)
+
+This was the video we were going to use to assemble the cannon itself
+-			https://www.artofmanliness.com/articles/how-to-make-a-potato-cannon/
+
+We plan on also adding a raspberry pi, accelerometer and a few custom 3D printed parts.
