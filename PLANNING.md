@@ -19,8 +19,25 @@ Last year, in BACON, Harry and I brainstormed and came up with the idea of a Pot
 
 Weekly Timeline | Projected Goal
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+February 19  | Finish Project Plan & Assignments
+February 26  | Complete all Assignments
+March 5  | Start protyping and Drawing out Full idea
+March 12  | Create Onshape Library and start making parts
+March 19  | Start Making Arduino and Code
+March 26  | Continue Coding
+April 2  | Finish Code
+April 9  | Spring Break
+April 16  | Start making CAD capsule
+April 23  | Continue making CAD Capsule
+April 30  | Get prototype of Capsule
+May 7  | Find issues with protoype and Redesign
+May 14  | Continue CAD Redesign
+May 21  | Complete redesign and start making Cannon
+May 28  | Continue Cannon Subassembly
+June 4  | Start CAD Subassembly
+June 11  | Start Assembly
+June 18  | Continue Assembly
+June 25  | Finish Assembly and Documentation
 
 
 ### Details ###
