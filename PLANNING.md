@@ -58,7 +58,7 @@ Our orginal plan called for:
 - Hairspray (not pictured)
 
 We will add:
-- Accelerometer  <img src="LSM303-Module.jpg" width="50" height="45">
+- Accelerometer  <img src="LSM303-Module.jpg" width="70" height="50">
 - Raspberyy Pi
 
 This was the video we were going to use to assemble the cannon itself
