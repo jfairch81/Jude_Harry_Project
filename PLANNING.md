@@ -61,5 +61,5 @@ This was the video we were going to use to assemble the cannon itself
 -			https://www.artofmanliness.com/articles/how-to-make-a-potato-cannon/
 This Video shows how the cannon itself fires but we will use a spark plug instead of a lighter.
 -   https://www.youtube.com/watch?v=nZb_PKEubB8
-
+![GitHub intro1](LSM303-Module.jpg)
 We plan on also adding a raspberry pi, accelerometer and a few custom 3D printed parts.
