@@ -15,6 +15,6 @@ Potato Cannons are small scale projectile launchers. They function by utilizing 
 
 #### Diagram
 
-<img src="Media/Potato_Cannon.jpeg" width="70" height="50">
+<img src="Media/Potato_Cannon.jpeg" width="250" height="200">
 
 
