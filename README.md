@@ -27,11 +27,13 @@ This study does a great job of highlighting the benifits and drawbacks to very f
 ### For Reference M/S To MPH for each:
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-**Acetylene -- 308.9 MPH
-**Propane -- 62.4 MPH
-**Ethanol -- 74.5 MPH
-**Methanol -- 107.8 MPH
-**Butane -- 77.6 MPH
+Propellant  | Muzzle Velocity (MPH)
+------------- | -------------
+Acetylene  | 308.9 MPH
+Propane  | 62.4 MPH
+Ethanol  | 74.5 MPH
+Methanol  | 107.8 MPH
+Butane  | 77.6 MPH
 
 ##### Study
 https://www.researchgate.net/publication/236627568_Studying_the_Internal_Ballistics_of_a_Combustion_Driven_Potato_Cannon_using_High-speed_Video
