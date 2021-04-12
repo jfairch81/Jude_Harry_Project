@@ -40,7 +40,7 @@ We will probably test both Propane and Butane on seperate launches after we get 
 
 **1 cc (Cubic Centimeter) = 1 mL (Milliliter)**
 
-**1 mL of Butane = .599 g (grams)**
+**1 mL of Butane = .599 g (grams)**                                                                                                                         
 **1 mL of Propane = .583 g**
 
 ##### Study
