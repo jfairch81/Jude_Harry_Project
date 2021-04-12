@@ -38,7 +38,10 @@ Butane  | 77.6 MPH
 Through research we've found that we can get Propane and Butane in spray cans, we may be able to access Ethanol or Methanol, but Acetylene is very expensive.
 We will probably test both Propane and Butane on seperate launches after we get them.
 
-**1 CC = 1 ML**
+**1 cc (Cubic Centimeter) = 1 mL (Milliliter)**
+
+**1 mL of Butane = .599 g (grams)**
+**1 mL of Propane = .583 g**
 
 ##### Study
 https://www.researchgate.net/publication/236627568_Studying_the_Internal_Ballistics_of_a_Combustion_Driven_Potato_Cannon_using_High-speed_Video
