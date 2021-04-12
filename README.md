@@ -23,5 +23,15 @@ This study does a great job of highlighting the benifits and drawbacks to very f
 ##### Data
 <img src="Media/Screenshot 2021-03-29 12.52.46 PM.png" width="400" height="200">        <img src="Media/Screenshot 2021-03-29 12.53.29 PM.png" width="300" height="200"> 
 <img src="Media/Screenshot 2021-03-29 1.00.02 PM.png" width="400" height="150">
+
+### For Reference M/S To MPH for each:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+**Acetylene -- 308.9 MPH
+**Propane -- 62.4 MPH
+**Ethanol -- 74.5 MPH
+**Methanol -- 107.8 MPH
+**Butane -- 77.6 MPH
+
 ##### Study
 https://www.researchgate.net/publication/236627568_Studying_the_Internal_Ballistics_of_a_Combustion_Driven_Potato_Cannon_using_High-speed_Video
