@@ -24,7 +24,7 @@ This study does a great job of highlighting the benifits and drawbacks to very f
 <img src="Media/Screenshot 2021-03-29 12.52.46 PM.png" width="400" height="200">        <img src="Media/Screenshot 2021-03-29 12.53.29 PM.png" width="300" height="200"> 
 <img src="Media/Screenshot 2021-03-29 1.00.02 PM.png" width="400" height="150">
 
-### For Reference M/S To MPH for each:
+### For Reference
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Propellant  | Muzzle Velocity (MPH)
@@ -37,6 +37,8 @@ Butane  | 77.6 MPH
 
 Through research we've found that we can get Propane and Butane in spray cans, we may be able to access Ethanol or Methanol, but Acetylene is very expensive.
 We will probably test both Propane and Butane on seperate launches after we get them.
+
+**1 CC = 1 ML
 
 ##### Study
 https://www.researchgate.net/publication/236627568_Studying_the_Internal_Ballistics_of_a_Combustion_Driven_Potato_Cannon_using_High-speed_Video
