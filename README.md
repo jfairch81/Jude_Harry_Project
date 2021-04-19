@@ -47,5 +47,6 @@ We will probably test both Propane and Butane on seperate launches after we get 
 https://www.researchgate.net/publication/236627568_Studying_the_Internal_Ballistics_of_a_Combustion_Driven_Potato_Cannon_using_High-speed_Video
 
 ### Our Needs
+We created a google doc outlining all the parts needed for this project. We included links for the parts we need to order aswell as a total estimated price. 
 
 https://docs.google.com/document/d/1U25AbGJkagLkQlCdeDqdo1v5hj71Pqpnpsxfc6KjWwY/edit?usp=sharing
