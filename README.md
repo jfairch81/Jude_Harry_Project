@@ -45,3 +45,7 @@ We will probably test both Propane and Butane on seperate launches after we get 
 
 ##### Study
 https://www.researchgate.net/publication/236627568_Studying_the_Internal_Ballistics_of_a_Combustion_Driven_Potato_Cannon_using_High-speed_Video
+
+### Our Needs
+
+https://docs.google.com/document/d/1U25AbGJkagLkQlCdeDqdo1v5hj71Pqpnpsxfc6KjWwY/edit?usp=sharing
