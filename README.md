@@ -30,10 +30,10 @@ This study does a great job of highlighting the benifits and drawbacks to very f
 Propellant  | Muzzle Velocity (MPH)
 ------------- | -------------
 Acetylene  | 308.9 MPH
-Propane  | 62.4 MPH
+**Propane  | 62.4 MPH**
 Ethanol  | 74.5 MPH
 Methanol  | 107.8 MPH
-Butane  | 77.6 MPH
+**Butane  | 77.6 MPH**
 
 Through research we've found that we can get Propane and Butane in spray cans, we may be able to access Ethanol or Methanol, but Acetylene is very expensive.
 We will probably test both Propane and Butane on seperate launches after we get them.
