@@ -50,3 +50,9 @@ https://www.researchgate.net/publication/236627568_Studying_the_Internal_Ballist
 We created a google doc outlining all the parts needed for this project. We included links for the parts we need to order aswell as a total estimated price. 
 
 https://docs.google.com/document/d/1U25AbGJkagLkQlCdeDqdo1v5hj71Pqpnpsxfc6KjWwY/edit?usp=sharing
+#### What we have as of now
+Recently Harry went to Lowes and picked up the following parts
+- PVC cement and primer <img src="Media/IMG_4184.jpg" width="400" height="200">   
+- 2 inch PVC pipe   <img src="Media/IMG_4181.jpg" width="400" height="200">   
+- Spark plug  <img src="Media/IMG_4183.jpg" width="400" height="200">   
+- 2-4 inch Coupler  <img src="Media/IMG_4186.jpg" width="400" height="200">   
