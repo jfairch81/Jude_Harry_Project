@@ -51,8 +51,8 @@ We created a google doc outlining all the parts needed for this project. We incl
 
 https://docs.google.com/document/d/1U25AbGJkagLkQlCdeDqdo1v5hj71Pqpnpsxfc6KjWwY/edit?usp=sharing
 #### What we have as of now
-Recently Harry went to Lowes and picked up the following parts
-- PVC cement and primer <img src="Media/IMG_4184.jpg" width="400" height="200">   
-- 2 inch PVC pipe   <img src="Media/IMG_4181.jpg" width="400" height="200">   
-- Spark plug  <img src="Media/IMG_4183.jpg" width="400" height="200">   
-- 2-4 inch Coupler  <img src="Media/IMG_4186.jpg" width="400" height="200">   
+Recently Harry went to Lowes and picked up the following parts :
+- PVC cement and primer <img src="Media/IMG_4184.jpg" width="200" height="200">   
+- 2 inch PVC pipe   <img src="Media/IMG_4181.jpg" width="200" height="200">   
+- Spark plug  <img src="Media/IMG_4183.jpg" width="200" height="200">   
+- 2-4 inch Coupler  <img src="Media/IMG_4186.jpg" width="200" height="200">   
