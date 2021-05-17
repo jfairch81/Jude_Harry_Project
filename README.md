@@ -56,3 +56,12 @@ Recently Harry went to Lowes and picked up the following parts :
 - 2 inch PVC pipe             <img src="Media/IMG_4181.jpg" width="200" height="200">   
 - Spark plug                  <img src="Media/IMG_4183.jpg" width="200" height="200">   
 - 2-4 inch Coupler            <img src="Media/IMG_4186.jpg" width="200" height="200">   
+
+
+### Potential Issues
+
+Currently, We're three weeks out from the end of school. We are almost fully done with the building of the Potato Cannon, and we 3d printed a part so we can put the Pi in the Cannon. Our potato cannon currently is made out of 2 inch PVC on the barrel, and that might not be big enough to fit our Pi, as we 3d printed a spud and it fits but with the wiring it might not. We're contemplating whether moving to 3 inch PVC on the barrel will also be better.
+
+Another one of our potential problems stems from the fact that since an explosion is happening in the cannon, the PVC may not withstand the blast. Whether that be heat, or when it is shot it might break. We plan on testing later this week to determine if this is fact or not.
+
+
