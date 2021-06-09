@@ -16,6 +16,7 @@ Last year, in BACON, Harry and I brainstormed and came up with the idea of a Pot
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+This is a timeline after Spring Break when we are available in-person to fully begin our project.
 
 Weekly Timeline | Projected Goal
 ------------- | -------------
