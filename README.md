@@ -69,7 +69,10 @@ Another one of our potential problems stems from the fact that since an explosio
 ## Application
 
 ### Code
+
 We plan on using a slightly modifiyed version of the I2C code to initially find the acceleration. It is gonna be a similar setup to the wiring also utilized in that assignment.
+
+[Code](https://github.com/jfairch81/Jude_Harry_Project/blob/main/Project_Code/projCode.py)
 
 ### Potato Cannon
 
