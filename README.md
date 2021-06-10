@@ -76,3 +76,9 @@ We plan on using a slightly modifiyed version of the I2C code to initially find 
 Here are a few pictures of our completed Potato Cannon before Harry and I launched it.
 
 <img src="Media/IMG_0326.jpg" width="250" height="300">      <img src="Media/IMG_0325.jpg" width="200" height="300"> 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+## Conclusion
+
+On June Tenth Jude and I shot our potato cannon with a "test", 3D printed potato/spud inside. We launched it from the top of a hill at Meade Park used a mix of propane and hair spray. The Spud shot relatively well but we ran into some issues with the durability of the spud. There were a few scorch marks and the top was damaged. We felt that it would be a waste school reasources to fire such a spud with a Raspberry Pi in side due to the lack of durability. If we had more time in the school year would would likely make the spud thicker and add more structuring to the inside.
