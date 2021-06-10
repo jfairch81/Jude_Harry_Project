@@ -64,5 +64,15 @@ Currently, We're three weeks out from the end of school. We are almost fully don
 
 Another one of our potential problems stems from the fact that since an explosion is happening in the cannon, the PVC may not withstand the blast. Whether that be heat, or when it is shot it might break. We plan on testing later this week to determine if this is fact or not.
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+## Application
+
 ### Code
 We plan on using a slightly modifiyed version of the I2C code to initially find the acceleration. It is gonna be a similar setup to the wiring also utilized in that assignment.
+
+### Potato Cannon
+
+Here are a few pictures of our completed Potato Cannon before Harry and I launched it.
+
+<img src="Media/IMG_0326.jpg" width="200" height="300">      <img src="Media/IMG_0325.jpg" width="200" height="300"> 
