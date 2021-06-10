@@ -8,7 +8,7 @@ import datetime
 
 
 RST = 24
-lsm303 = Adafruit_LSM303.LSM303() #creates LSM303 initialization
+lsm303 = Adafruit_LSM303.LSM303() # creates LSM303 initialization
 
 
 while True:
