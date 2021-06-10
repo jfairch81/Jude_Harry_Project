@@ -75,4 +75,4 @@ We plan on using a slightly modifiyed version of the I2C code to initially find 
 
 Here are a few pictures of our completed Potato Cannon before Harry and I launched it.
 
-<img src="Media/IMG_0326.jpg" width="600" height="300">      <img src="Media/IMG_0325.jpg" width="200" height="300"> 
+<img src="Media/IMG_0326.jpg" width="300" height="300">      <img src="Media/IMG_0325.jpg" width="200" height="300"> 
