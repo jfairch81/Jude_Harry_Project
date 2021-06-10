@@ -81,7 +81,7 @@ Here are a few pictures of our completed Potato Cannon before Harry and I launch
 
 Harry and I desgined our Spud through OnShape. We originally thought a 3 part design would be better, but found that that probably wouldn't work with the firing and if it disconnected and other problems. The second one is our actual design.
 
-<img src="Media/OldSpud.png" width="300" height="300">   <img src="Media/Spud.png" width="300" height="300"> 
+<img src="Media/OldSpud.png" width="400" height="300">   <img src="Media/Spud.png" width="400" height="300"> 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
