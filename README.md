@@ -74,6 +74,7 @@ We plan on using a slightly modifiyed version of the I2C code to initially find 
 
 [Our Code:](https://github.com/jfairch81/Jude_Harry_Project/blob/main/Project_Code/projCode.py)
 
+Wiring:       <img src="Media/Fritz1.png" width="250" height="300">  
 ### Potato Cannon
 
 Here are a few pictures of our completed Potato Cannon before Harry and I launched it.
